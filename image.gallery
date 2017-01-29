@@ -57,7 +57,7 @@ div.desc {
 
 <div class="img">
   <a target="_blank" href="https://static.pexels.com/photos/6548/cold-snow-winter-mountain.jpeg">
-    <img src="https://static.pexels.com/photos/6548/cold-snow-winter-mountain.jpeg" alt="Mountains" width="300" height="200">
+    <img src="https://static.pexels.com/photos/6548/cold-snow-winter-mountain.jpeg" alt="Mountains" width="200" height="100">
   </a>
   <div class="desc">Mountains</div>
 </div>
