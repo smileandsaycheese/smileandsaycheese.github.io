@@ -1,5 +1,5 @@
 body {
-  animation: pulse 15s infinite;
+  animation: pulse 12s infinite;
 }
 
 @keyframes pulse {
@@ -9,4 +9,7 @@ body {
   100% {
     background-color: #DDA0DD;
   }
+  @keyframes pulse {
+  0% {
+    background-color: #B0C4DE;
 }
