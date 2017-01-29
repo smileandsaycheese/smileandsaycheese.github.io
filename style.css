@@ -9,7 +9,6 @@ body {
   100% {
     background-color: #DDA0DD;
   }
-  @keyframes pulse {
-  0% {
+  100% {
     background-color: #B0C4DE;
 }
