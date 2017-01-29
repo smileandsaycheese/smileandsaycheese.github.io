@@ -61,33 +61,24 @@ div.desc {
 </div>
 
 <div class="img">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="https://www.nordicvisitor.com/images/iceland/winter/northern-lights-lake-thingvellir-national-park-iceland.jpg">
+    <img src="https://www.nordicvisitor.com/images/iceland/winter/northern-lights-lake-thingvellir-national-park-iceland.jpg" alt="Northern Lights" width="200" height="100">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Northern Lights</div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Grand-Canyon-National-Park.jpg">
+    <img src="https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Grand-Canyon-National-Park.jpg" alt="Grand Canyon" width="200" height="100">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Grand Canyon</div>
 </div>
 
 <div class="img">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="https://aos.iacpublishinglabs.com/question/aq/700px-394px/hawaii-known_2209a286881fab48.jpg?domain=cx.aos.ask.com">
+    <img src="https://aos.iacpublishinglabs.com/question/aq/700px-394px/hawaii-known_2209a286881fab48.jpg?domain=cx.aos.ask.com" alt="Hawaii" width="200" height="100">
   </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-</body>
-</html>
-
->
-    <img src="img_fjords.jpg" alt="Trolltunga Norway" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Hawaii</div>
 </div>
 
 <div class="img">
