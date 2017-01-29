@@ -1,0 +1,12 @@
+body {
+  animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #white;
+  }
+  100% {
+    background-color: #gray blue;
+  }
+}
