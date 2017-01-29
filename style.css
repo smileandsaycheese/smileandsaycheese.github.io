@@ -1,5 +1,5 @@
 body {
-  animation: pulse 10s infinite;
+  animation: pulse 15s infinite;
 }
 
 @keyframes pulse {
