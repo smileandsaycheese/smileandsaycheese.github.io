@@ -62,7 +62,7 @@ div.desc {
 
 <div class="img">
   <a target="_blank" href="https://www.nordicvisitor.com/images/iceland/winter/northern-lights-lake-thingvellir-national-park-iceland.jpg">
-    <img src="https://www.nordicvisitor.com/images/iceland/winter/northern-lights-lake-thingvellir-national-park-iceland.jpg" alt="Northern Lights" width="200" height="100">
+    <img src="https://www.nordicvisitor.com/images/iceland/winter/northern-lights-lake-thingvellir-national-park-iceland.jpg" alt="Northern Lights" width="400" height="200">
   </a>
   <div class="desc">Northern Lights</div>
 </div>
